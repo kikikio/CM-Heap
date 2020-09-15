@@ -1,0 +1,276 @@
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 2048
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 0
+
+d = 3
+w = 2048
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 5
+<5f7027a2, 101> <360d0726, 142> <5d437b54, 110> <b43a45f5, 125> <7f7d01fa, 131>
+
+d = 3
+w = 2048
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 10
+<2494dd75, 122> <a1a60c4c, 104> <20df68e3, 131> <30f3e4ca, 118> <7ef36678, 130>
+<33886813, 122> <3d63c4c7, 149> <88d761f9, 148> <9c53ea55, 123> <88a18a0d, 139>
+
+d = 3
+w = 2048
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 15
+<129ee997, 134> <2e3d3237, 110> <88f889a9, 137> <4b246929, 147> <b271b080, 133>
+<0e694215, 103> <57269358, 139> <6b6499e4, 132> <8e091135, 120> <2d3c91e2, 114>
+<7dd53c86, 142> <07ed04e6, 124> <788e7ec8, 132> <28f4ced8, 115> <d5decdd4, 134>
+
+d = 3
+w = 2048
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 20
+<12498a8e, 131> <46dc56e4, 113> <3c88508c, 117> <a46bedcc, 120> <9661399b, 102>
+<d9950c45, 114> <d65df3cf, 117> <7322d7c5, 117> <cef64aff, 113> <2e25b8c8, 123>
+<0366546a, 117> <4b8c437e, 149> <26bc5c27, 121> <a0f99170, 109> <3964ffb9, 133>
+<f73ec97d, 108> <9b51f98c, 108> <617ab38e, 139> <c9b49228, 147> <35ffadc7, 113>
+
+Time: 360
+
+
+
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 1962
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 2
+<88639f05, 100> <3f77681c, 101>
+d = 3
+w = 1962
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 5
+<5f7027a2, 101> <360d0726, 142> <5d437b54, 110> <b43a45f5, 125> <7f7d01fa, 131>
+
+d = 3
+w = 1962
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 11
+<2494dd75, 122> <a1a60c4c, 104> <20df68e3, 131> <30f3e4ca, 120> <a005c826, 100>
+<7ef36678, 130> <33886813, 122> <3d63c4c7, 149> <88d761f9, 148> <9c53ea55, 123>
+<88a18a0d, 139>
+d = 3
+w = 1962
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 16
+<11361b92, 100> <129ee997, 134> <2e3d3237, 110> <88f889a9, 137> <4b246929, 147>
+<b271b080, 133> <0e694215, 102> <57269358, 139> <6b6499e4, 132> <8e091135, 120>
+<2d3c91e2, 114> <7dd53c86, 143> <07ed04e6, 124> <788e7ec8, 132> <28f4ced8, 115>
+<d5decdd4, 134>
+d = 3
+w = 1962
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 22
+<12498a8e, 131> <46dc56e4, 113> <3c88508c, 117> <55a7236f, 100> <a46bedcc, 120>
+<9661399b, 102> <d9950c45, 114> <d65df3cf, 119> <7322d7c5, 117> <cef64aff, 113>
+<2e25b8c8, 123> <a9737309, 100> <0366546a, 117> <4b8c437e, 149> <26bc5c27, 121>
+<a0f99170, 109> <3964ffb9, 133> <f73ec97d, 108> <9b51f98c, 108> <617ab38e, 139>
+<c9b49228, 147> <35ffadc7, 113>
+Time: 360
+
+
+
+
+Successfully read in data/0.dat, 100040 packets
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 1706
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 0
+
+d = 3
+w = 1706
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 6
+<5f7027a2, 101> <d61c2272, 100> <360d0726, 142> <5d437b54, 110> <b43a45f5, 125>
+<7f7d01fa, 131>
+d = 3
+w = 1706
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 10
+<2494dd75, 122> <a1a60c4c, 104> <20df68e3, 131> <30f3e4ca, 120> <7ef36678, 130>
+<33886813, 122> <3d63c4c7, 149> <88d761f9, 148> <9c53ea55, 123> <88a18a0d, 139>
+
+d = 3
+w = 1706
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 15
+<129ee997, 134> <2e3d3237, 110> <88f889a9, 137> <4b246929, 147> <b271b080, 133>
+<0e694215, 102> <57269358, 139> <6b6499e4, 132> <8e091135, 120> <2d3c91e2, 114>
+<7dd53c86, 143> <07ed04e6, 124> <788e7ec8, 132> <28f4ced8, 115> <d5decdd4, 134>
+
+d = 3
+w = 1706
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 21
+<12498a8e, 131> <46dc56e4, 113> <3c88508c, 117> <a46bedcc, 120> <9661399b, 102>
+<d9950c45, 114> <d65df3cf, 119> <7322d7c5, 117> <cef64aff, 113> <2e25b8c8, 125>
+<00ab3be7, 100> <0366546a, 117> <4b8c437e, 149> <26bc5c27, 121> <a0f99170, 109>
+<3964ffb9, 133> <f73ec97d, 108> <9b51f98c, 108> <617ab38e, 139> <c9b49228, 147>
+<35ffadc7, 113>
+Time: 359
+
+
+
+
+
+
+Successfully read in data/0.dat, 100040 packets
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 1536
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 1
+<a8da3dde, 101>
+d = 3
+w = 1536
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 6
+<5f7027a2, 101> <360d0726, 143> <0bb3b4e4, 100> <5d437b54, 110> <b43a45f5, 125>
+<7f7d01fa, 131>
+d = 3
+w = 1536
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 11
+<2494dd75, 122> <a1a60c4c, 104> <20df68e3, 131> <30f3e4ca, 118> <7ef36678, 130>
+<33886813, 122> <3d63c4c7, 149> <88d761f9, 148> <4a668669, 100> <9c53ea55, 124>
+<88a18a0d, 139>
+d = 3
+w = 1536
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 15
+<129ee997, 134> <2e3d3237, 110> <88f889a9, 137> <4b246929, 147> <b271b080, 133>
+<0e694215, 102> <57269358, 139> <6b6499e4, 132> <8e091135, 120> <2d3c91e2, 114>
+<7dd53c86, 142> <07ed04e6, 124> <788e7ec8, 132> <28f4ced8, 115> <d5decdd4, 134>
+
+d = 3
+w = 1536
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 21
+<12498a8e, 131> <46dc56e4, 115> <e792776d, 100> <3c88508c, 117> <a46bedcc, 120>
+<9661399b, 102> <d9950c45, 114> <d65df3cf, 117> <7322d7c5, 117> <cef64aff, 113>
+<2e25b8c8, 123> <0366546a, 117> <4b8c437e, 149> <26bc5c27, 121> <a0f99170, 109>
+<3964ffb9, 133> <f73ec97d, 108> <9b51f98c, 108> <617ab38e, 139> <c9b49228, 147>
+<35ffadc7, 113>
+Time: 359
+
+
+
+
+
+
+Successfully read in data/0.dat, 100040 packets
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 1280
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 4
+<88639f05, 100> <c7194e57, 100> <b8d64ad0, 100> <d764583d, 100>
+d = 3
+w = 1280
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 6
+<09336dc7, 101> <5f7027a2, 101> <360d0726, 142> <5d437b54, 110> <b43a45f5, 125>
+<7f7d01fa, 131>
+d = 3
+w = 1280
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 11
+<2494dd75, 122> <a1a60c4c, 104> <20df68e3, 133> <30f3e4ca, 118> <7ef36678, 130>
+<33886813, 122> <3d63c4c7, 149> <88d761f9, 148> <4a668669, 104> <9c53ea55, 123>
+<88a18a0d, 139>
+d = 3
+w = 1280
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 16
+<129ee997, 134> <2e3d3237, 110> <688c5410, 100> <88f889a9, 137> <4b246929, 147>
+<b271b080, 133> <0e694215, 102> <57269358, 139> <6b6499e4, 132> <8e091135, 120>
+<2d3c91e2, 114> <7dd53c86, 145> <07ed04e6, 124> <788e7ec8, 132> <28f4ced8, 115>
+<d5decdd4, 134>
+d = 3
+w = 1280
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 23
+<12498a8e, 131> <46dc56e4, 113> <a79e5710, 100> <3c88508c, 117> <a46bedcc, 120>
+<9661399b, 102> <d9950c45, 114> <d65df3cf, 117> <7322d7c5, 117> <cef64aff, 113>
+<2e25b8c8, 123> <5ca1ca12, 101> <0366546a, 117> <d0205f96, 100> <4b8c437e, 149>
+<26bc5c27, 122> <a0f99170, 109> <3964ffb9, 133> <f73ec97d, 108> <9b51f98c, 108>
+<617ab38e, 139> <c9b49228, 147> <35ffadc7, 113>
+Time: 359
+
+
+Successfully read in data/0.dat, 100040 packets
+Successfully read in data/1.dat, 100003 packets
+Successfully read in data/2.dat, 100064 packets
+Successfully read in data/3.dat, 100011 packets
+Successfully read in data/4.dat, 100057 packets
+
+d = 3
+w = 853
+0.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 7
+<9adfbb52, 100> <88639f05, 100> <b8d64ad0, 101> <8cfa021b, 100> <eeb159ad, 100>
+<ce659a75, 109> <3b2d572c, 118>
+d = 3
+w = 853
+1.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 10
+<5f7027a2, 101> <d61c2272, 101> <360d0726, 142> <3f64c944, 100> <7687ce72, 101>
+<5d437b54, 110> <b43a45f5, 125> <7f7d01fa, 131> <aed04a3f, 101> <57c3fc28, 108>
+
+d = 3
+w = 853
+2.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 21
+<af97cbdf, 100> <2494dd75, 122> <a1a60c4c, 104> <5890d035, 100> <20df68e3, 131>
+<cd88fea3, 100> <30f3e4ca, 120> <7ef36678, 130> <bb248fa3, 100> <33886813, 122>
+<3d63c4c7, 149> <88d761f9, 148> <462bbb46, 100> <4a668669, 101> <9e1f3568, 100>
+<9c53ea55, 123> <4f2f5878, 100> <88a18a0d, 139> <532db01a, 110> <b127728e, 127>
+<e298c114, 128>
+d = 3
+w = 853
+3.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 19
+<2fc4c8b7, 100> <129ee997, 134> <2e3d3237, 110> <88f889a9, 137> <4b246929, 147>
+<b271b080, 133> <0e694215, 102> <57269358, 141> <6b6499e4, 132> <9f55073e, 100>
+<8e091135, 120> <2d3c91e2, 114> <7dd53c86, 145> <07ed04e6, 125> <788e7ec8, 132>
+<28f4ced8, 115> <d5decdd4, 134> <629da248, 122> <fd9a6720, 109>
+d = 3
+w = 853
+4.dat: heavy hitters: <srcIP, count>, threshold=100
+The number of heavy hitter is 26
+<12498a8e, 131> <e792776d, 100> <46dc56e4, 113> <3c88508c, 117> <a46bedcc, 120>
+<9661399b, 104> <d9950c45, 114> <d65df3cf, 119> <d7949059, 101> <7322d7c5, 117>
+<ff676df3, 100> <cef64aff, 113> <2e25b8c8, 125> <00ab3be7, 100> <a9737309, 100>
+<0366546a, 117> <d0205f96, 100> <4b8c437e, 149> <26bc5c27, 121> <3964ffb9, 135>
+<a0f99170, 109> <f73ec97d, 108> <9b51f98c, 108> <617ab38e, 139> <c9b49228, 147>
+<35ffadc7, 113>
+Time: 359
